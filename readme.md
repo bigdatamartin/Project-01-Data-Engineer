@@ -125,3 +125,7 @@ docker build -t myimage .
 docker run -d --name mycontainer -p 80:80 myimage
 
 ---
+
+Video descriptivo del proyecto
+
+https://youtu.be/N-CSGBZN564
