@@ -1,8 +1,11 @@
-![1670558605809](https://gmo-research.com/application/files/7816/3894/7276/streaming_platform_image_Shutterstock_s.jpg)
+#  <h1 align=center> **Proyecto 01 - Henry - Data Engineer** </h1>
 
-### **PROYECTO 1 INDIVIDUAL HENRY - DATA ENGINEER - ETL**
+<p align="center">
 
----
+<img src= "https://gmo-research.com/application/files/7816/3894/7276/streaming_platform_image_Shutterstock_s.jpg" height=400>
+</p> 
+
+<hr> 
 
 
 
